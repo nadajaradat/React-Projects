@@ -36,7 +36,7 @@ After creation, your project should look like this:
 
 | Project Name | Description |
 |----------|----------|
-| [ToDo List]('getting-started/to-do) | Make a basic TODO App |
+| [ToDo List](getting-started/to-do) | Make a basic TODO App |
 ## Understanding the Basics
 
 In this section, you'll find resources and examples that cover the fundamental concepts of React. Topics include:

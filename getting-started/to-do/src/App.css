@@ -1,0 +1,120 @@
+body{
+  background-color: #282c34;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2rem;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.bg-dark{
+  background-color: #282c34;
+}
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.appHeader{
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.container{
+  margin: 10px;
+  width: 580px;
+  border: 3px solid;
+  border-radius: 10px;
+  padding: 10px 0;
+  background-color: #474e5cad;
+}
+.taskList{
+  height: 400px;
+  width: 522px !important;
+  overflow-y: auto;
+  overflow-x: hidden;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  border: 1px solid;
+  padding: 10px;
+}
+
+.addTask{
+  height: 22.5px;
+  width: 400px;
+  padding: 3px;
+  border-radius: 5px;
+  border: none;
+}
+.task{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.taskText{
+  width: 400px;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #a5a6a738;
+  text-align: left;
+  font: .8em sans-serif;
+}
+.addTaskContainer{
+}
+.btn{
+  padding: 7px;
+  width: 100px;
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+  color: #757575;
+}
+.btn:hover{
+  cursor: pointer;
+  background-color: #a5a6a738;
+  color: white;
+}
+.btn-sm{
+  padding: 7px;
+  width: 50px;
+  margin: 1px 3px;
+}
+.btn-primary{
+  background-color: #bfaddf;
+  color: white;
+}
+.btn-primary:hover{
+  background-color: #736788;
+}
+.btn-danger{
+  background-color: #dd5163;
+  color: white;
+}
+.btn-danger:hover{
+  background-color: #88323e;
+}
+.filterInput{
+  height: 22.5px;
+  width: auto;
+  padding: 3px;
+  border: none;
+  border-radius: 5px;
+}
+.filterForm{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}

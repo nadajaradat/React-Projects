@@ -2,6 +2,9 @@
 
 This project is a simple web application that generates random inspirational quotes using the [FreeCodeCamp Inspirational Quotes API](https://type.fit/api/quotes).
 
+![image](https://github.com/nadajaradat/React-Projects/assets/86928581/bd570a0c-c6a5-4132-b08a-e9b9161bb584)
+
+
 ## Table of Contents
 
 - [Features](#features)

@@ -42,7 +42,7 @@ After creation, your project should look like this:
 In this section, you'll find projects that cover the fundamental concepts of React.
 | Project Name | Description |
 |----------|----------|
-| [Random Quote Generator](understanding-the-basics/random-quote-generator) | Make a basic TODO App |
+| [Random Quote Generator](understanding-the-basics/random-quote-generator) | Make a basic Random Quote Generator |
 ## State Management & User Interactions
 
 This section delves deeper into state management and handling user interactions in React. Topics include:

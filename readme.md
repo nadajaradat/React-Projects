@@ -39,8 +39,10 @@ After creation, your project should look like this:
 | [ToDo List](getting-started/to-do) | Make a basic TODO App |
 ## Understanding the Basics
 
-In this section, you'll find resources and examples that cover the fundamental concepts of React. Topics include:
-
+In this section, you'll find projects that cover the fundamental concepts of React.
+| Project Name | Description |
+|----------|----------|
+| [Random Quote Generator](understanding-the-basics/random-quote-generator) | Make a basic TODO App |
 ## State Management & User Interactions
 
 This section delves deeper into state management and handling user interactions in React. Topics include:

@@ -44,6 +44,7 @@ In this section, you'll find projects that cover the fundamental concepts of Rea
 |----------|----------|
 | [Random Quote Generator](understanding-the-basics/random-quote-generator) | Make a basic Random Quote Generator |
 | [Calculator App](understanding-the-basics/calculator-app) | Make a basic Calculator App |
+| [Rock paper Scissors Game](understanding-the-basics/rock-paper-scissors-game) | Make a basic Rock paper Scissors Game |
 ## State Management & User Interactions
 
 This section delves deeper into state management and handling user interactions in React. Topics include:

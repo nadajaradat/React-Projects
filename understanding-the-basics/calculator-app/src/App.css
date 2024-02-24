@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 1em;
+  padding: 1em;
+  background-color: black;
+}
+
+.screen {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 2em;
+  padding: 0.5em;
+  margin-bottom: .5em;
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1.8em;
+  width: 1.8em;
+  padding: 0.5em;
+  border: 1px solid ;
+  border-radius: 50%;
+  background-color: #323232;
+  color: white;
+  margin: 0.3em;
+  cursor: pointer;
+  border: none;
+}
+.btn:hover {
+  background-color: #4d4d4d;
+}
+.btn-0 {
+  width: 5.6em;
+  border-radius: 50px;
+}
+
+.bg-orange {
+  background-color: #ff9500;
+  color: white;
+}
+.bg-orange:hover {
+  background-color: #ffad33;
+}
+
+.bg-gray {
+  background-color: #a6a6a6;
+  color: black;
+}
+.bg-gray:hover {
+  background-color: #b3b3b3;
+}
+
+.row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

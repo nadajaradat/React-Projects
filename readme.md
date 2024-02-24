@@ -43,6 +43,7 @@ In this section, you'll find projects that cover the fundamental concepts of Rea
 | Project Name | Description |
 |----------|----------|
 | [Random Quote Generator](understanding-the-basics/random-quote-generator) | Make a basic Random Quote Generator |
+| [Calculator App](understanding-the-basics/calculator-app) | Make a basic Calculator App |
 ## State Management & User Interactions
 
 This section delves deeper into state management and handling user interactions in React. Topics include:

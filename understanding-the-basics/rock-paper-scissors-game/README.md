@@ -35,3 +35,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+
+![image](https://github.com/nadajaradat/React-Projects/assets/86928581/4107048a-6d70-4eda-bd06-1d5b565c676e)

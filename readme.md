@@ -91,8 +91,10 @@ In this section, you'll find projects that cover the fundamental concepts of Rea
 |
 ## State Management & User Interactions
 
-This section delves deeper into state management and handling user interactions in React. Topics include:
-
+This section delves deeper into state management and handling user interactions in React.
+| Project Name | Description |
+|----------|----------|
+| [Shopping List App](shopping-list) | Make a basic Shopping List App |
 
 ## FullStack React Apps
 

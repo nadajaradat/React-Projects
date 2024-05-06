@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Book 1",
+        "price": 450,
+        "author": "Author 1",
+        "image": "https://via.placeholder.com/450"
+    },
+    {
+        "id": 2,
+        "name": "Book 2",
+        "price": 150,
+        "author": "Author 2",
+        "image": "https://via.placeholder.com/450"
+    },
+    {
+        "id": 3,
+        "name": "Book 3",
+        "price": 450,
+        "author": "Author 3",
+        "image": "https://via.placeholder.com/450"
+    },
+    {
+        "id": 4,
+        "name": "Book 4",
+        "price": 450,
+        "author": "Author 4",
+        "image": "https://via.placeholder.com/450"
+    },
+    {
+        "id": 5,
+        "name": "Book 5",
+        "price": 450,
+        "author": "Author 5",
+        "image": "https://via.placeholder.com/450"
+    },
+    {
+        "id": 6,
+        "name": "Book 6",
+        "price": 750,
+        "author": "Author 6",
+        "image": "https://via.placeholder.com/450"
+    },
+    {
+        "id": 7,
+        "name": "Book 7",
+        "price": 350,
+        "author": "Author 7",
+        "image": "https://via.placeholder.com/450"
+    },
+    {
+        "id": 8,
+        "name": "Book 8",
+        "price": 800,
+        "author": "Author 8",
+        "image": "https://via.placeholder.com/450"
+    },
+    {
+        "id": 9,
+        "name": "Book 9",
+        "price": 900,
+        "author": "Author 9",
+        "image": "https://via.placeholder.com/450"
+    },
+    {
+        "id": 10,
+        "name": "Book 10",
+        "price": 1000,
+        "author": "Author 10",
+        "image": "https://via.placeholder.com/450"
+    }
+]

@@ -13,7 +13,6 @@ repository related to React development.
     - [Library vs Framework](#library-vs-framework)
   - [Understanding the Basics](#understanding-the-basics)
   - [State Management \& User Interactions](#state-management--user-interactions)
-  - [FullStack React Apps](#fullstack-react-apps)
 
 ## Introduction
 ### What is React?
@@ -95,10 +94,3 @@ This section delves deeper into state management and handling user interactions 
 | Project Name | Description |
 |----------|----------|
 | [Shopping List App](shopping-list) | Make a basic Shopping List App |
-
-## FullStack React Apps
-
-In this section, you'll find full-stack React applications that integrate with backend services.
-Each subdirectory contains a complete React project with backend interactions.
-
-Feel free to explore, learn, and contribute to this React Projects repository. Happy coding!
